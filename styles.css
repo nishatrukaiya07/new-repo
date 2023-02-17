@@ -1,0 +1,22 @@
+h1{
+    color: lightcoral;
+    /* justify-content: center;
+    text-align: center; */
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    
+    /* justify-content: center;
+    text-align: center; */
+}
+fieldset{
+    height: 120px;
+    width: 300px;
+    margin-top: 10px;
+    /* justify-content: center;
+    align-items: center;  */
+}
+.space{
+    margin-top: 5px;
+}
